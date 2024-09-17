@@ -1,0 +1,3 @@
+/home/shaswot/Documents/Graphics_mini_projecttt/build/CMakeFiles/MyProject.dir
+/home/shaswot/Documents/Graphics_mini_projecttt/build/CMakeFiles/edit_cache.dir
+/home/shaswot/Documents/Graphics_mini_projecttt/build/CMakeFiles/rebuild_cache.dir
